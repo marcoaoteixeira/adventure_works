@@ -1,0 +1,15 @@
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\bin\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.deps.json
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\bin\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\bin\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\bin\Debug\net7.0\Nameless.AdventureWorks.Core.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\bin\Debug\net7.0\Nameless.AdventureWorks.Core.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.csproj.AssemblyReference.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.AssemblyInfoInputs.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.AssemblyInfo.cs
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.csproj.CopyComplete
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\refint\Nameless.AdventureWorks.ProducerConsumer.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer\obj\Debug\net7.0\ref\Nameless.AdventureWorks.ProducerConsumer.dll

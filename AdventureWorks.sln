@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{522A4EF0-22E1-422A-A4FC-5926DD88F3ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{6BE4C37A-7E48-4B5B-B8A9-CF0292CEE112}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{F6EACEEB-2C7F-42BF-898B-00E19EE83E4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nameless.AdventureWorks.IdentityServer", "apps\IdentityServer\server\Nameless.AdventureWorks.IdentityServer\Nameless.AdventureWorks.IdentityServer.csproj", "{9F3355A8-C28F-49B6-A96C-11012DA99841}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{51D108FF-9F08-48A3-A30D-88E3D346F970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nameless.AdventureWorks", "libs\Nameless.AdventureWorks\Nameless.AdventureWorks.csproj", "{6A9F9BB6-F218-4E5A-9742-FA2B37EF656A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3355A8-C28F-49B6-A96C-11012DA99841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3355A8-C28F-49B6-A96C-11012DA99841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3355A8-C28F-49B6-A96C-11012DA99841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3355A8-C28F-49B6-A96C-11012DA99841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9F9BB6-F218-4E5A-9742-FA2B37EF656A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9F9BB6-F218-4E5A-9742-FA2B37EF656A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9F9BB6-F218-4E5A-9742-FA2B37EF656A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9F9BB6-F218-4E5A-9742-FA2B37EF656A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BE4C37A-7E48-4B5B-B8A9-CF0292CEE112} = {522A4EF0-22E1-422A-A4FC-5926DD88F3ED}
+		{F6EACEEB-2C7F-42BF-898B-00E19EE83E4A} = {6BE4C37A-7E48-4B5B-B8A9-CF0292CEE112}
+		{9F3355A8-C28F-49B6-A96C-11012DA99841} = {F6EACEEB-2C7F-42BF-898B-00E19EE83E4A}
+		{6A9F9BB6-F218-4E5A-9742-FA2B37EF656A} = {51D108FF-9F08-48A3-A30D-88E3D346F970}
+	EndGlobalSection
+EndGlobal

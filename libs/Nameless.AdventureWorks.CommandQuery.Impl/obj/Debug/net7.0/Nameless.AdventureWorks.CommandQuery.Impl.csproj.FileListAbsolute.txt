@@ -1,0 +1,17 @@
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\bin\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.deps.json
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\bin\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\bin\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\bin\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\bin\Debug\net7.0\Nameless.AdventureWorks.Core.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\bin\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\bin\Debug\net7.0\Nameless.AdventureWorks.Core.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.csproj.AssemblyReference.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.AssemblyInfoInputs.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.AssemblyInfo.cs
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.csproj.CoreCompileInputs.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.csproj.CopyComplete
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\refint\Nameless.AdventureWorks.CommandQuery.Impl.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\Nameless.AdventureWorks.CommandQuery.Impl.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.CommandQuery.Impl\obj\Debug\net7.0\ref\Nameless.AdventureWorks.CommandQuery.Impl.dll

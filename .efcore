@@ -1,0 +1,2 @@
+#Line Pattern => ProjectName;StartUpProjectPath;DbContextProjectPath;MigrationOutputPath
+IdentityServer;./apps/IdentityServer/server/Nameless.AdventureWorks.IdentityServer/Nameless.AdventureWorks.IdentityServer.csproj;./apps/IdentityServer/server/Nameless.AdventureWorks.IdentityServer/Nameless.AdventureWorks.IdentityServer.csproj;Entities/Migrations

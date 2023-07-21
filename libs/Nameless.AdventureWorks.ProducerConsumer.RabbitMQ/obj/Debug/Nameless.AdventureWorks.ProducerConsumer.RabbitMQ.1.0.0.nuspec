@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nameless.AdventureWorks.ProducerConsumer.RabbitMQ</id>
+    <version>1.0.0</version>
+    <authors>Nameless.AdventureWorks.ProducerConsumer.RabbitMQ</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Nameless.AdventureWorks.ProducerConsumer" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RabbitMQ.Client" version="6.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Workspace\adventure_works\libs\Nameless.AdventureWorks.ProducerConsumer.RabbitMQ\bin\Debug\net7.0\Nameless.AdventureWorks.ProducerConsumer.RabbitMQ.dll" target="lib\net7.0\Nameless.AdventureWorks.ProducerConsumer.RabbitMQ.dll" />
+  </files>
+</package>

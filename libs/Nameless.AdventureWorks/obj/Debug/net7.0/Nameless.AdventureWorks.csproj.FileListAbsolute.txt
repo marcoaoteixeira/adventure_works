@@ -1,0 +1,12 @@
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\bin\Debug\net7.0\Nameless.AdventureWorks.deps.json
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\bin\Debug\net7.0\Nameless.AdventureWorks.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\bin\Debug\net7.0\Nameless.AdventureWorks.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\Nameless.AdventureWorks.csproj.AssemblyReference.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\Nameless.AdventureWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\Nameless.AdventureWorks.AssemblyInfoInputs.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\Nameless.AdventureWorks.AssemblyInfo.cs
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\Nameless.AdventureWorks.csproj.CoreCompileInputs.cache
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\Nameless.AdventureWorks.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\refint\Nameless.AdventureWorks.dll
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\Nameless.AdventureWorks.pdb
+C:\Workspace\adventure_works\libs\Nameless.AdventureWorks\obj\Debug\net7.0\ref\Nameless.AdventureWorks.dll

@@ -1,0 +1,12 @@
+﻿global using Nameless.AdventureWorks;
+global using Nameless.AdventureWorks.Filters;
+global using Nameless.AdventureWorks.IdentityServer.Api.v1.Models;
+global using Nameless.AdventureWorks.IdentityServer.Entities;
+global using Nameless.AdventureWorks.IdentityServer.Options;
+global using Nameless.AdventureWorks.IdentityServer.Services;
+global using Nameless.AdventureWorks.Infrastructure;
+global using Nameless.AdventureWorks.Infrastructure.Impl;
+global using Nameless.AdventureWorks.Options;
+global using Nameless.AdventureWorks.Services;
+global using Nameless.AdventureWorks.Services.Impl;
+global using Nameless.AdventureWorks.Versioning;

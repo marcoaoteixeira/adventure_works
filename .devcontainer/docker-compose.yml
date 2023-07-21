@@ -1,0 +1,104 @@
+version: "3.8"
+
+# PORTS -> SERVICES
+#
+# Applications: 55000 - 55099
+# SQLServer: 55100
+# RabbitMQ Management: 55200
+# RabbitMQ Service: 55250
+# MongoDb Database: 55300
+# Redis Database: 55400
+# Redis UI: 55450
+
+services:
+  mssqlserver:
+    container_name: mssqlserver
+    hostname: localhost
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    user: root
+    restart: unless-stopped
+    ports:
+      - 55100:1433
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=123456@AbC
+      - MSSQL_PID=Express
+    volumes:
+      - adventureworks_mssqlserver:/var/opt/mssql/data
+      - adventureworks_mssqlserver:/var/opt/mssql/log
+    networks:
+      - adventureworks
+
+  rabbit-mq:
+    container_name: rabbitmq
+    hostname: localhost
+    image: rabbitmq:management-alpine
+    restart: unless-stopped
+    ports:
+      - 55200:15672
+      - 55250:5672
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    volumes:
+      - adventureworks_rabbitmq:/var/lib/rabbitmq
+      - adventureworks_rabbitmq:/var/logs/rabbitmq
+    networks:
+      - adventureworks
+
+  mongo-db:
+    container_name: mongodb
+    hostname: localhost
+    image: mongo:latest
+    restart: unless-stopped
+    ports:
+      - 55300:27017
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=root
+    volumes:
+      - adventureworks_mongodb:/data/db
+      - adventureworks_mongodb:/data/configdb
+    networks:
+      - adventureworks
+
+  redis:
+    container_name: redis
+    hostname: localhost
+    image: redis/redis-stack:latest
+    restart: unless-stopped
+    ports:
+      - 55400:6379
+      - 55450:8001
+    volumes:
+      - adventureworks_redis:/data
+    networks:
+      - adventureworks
+
+  # customer-microservice:
+    # container_name: customer_microservice
+    # hostname: localhost
+    # build:
+      # context: ../Customer/server
+      # dockerfile: ./Nameless.AdventureWorks.Customer/Dockerfile
+    # image: adventureworks_customer:latest
+    # restart: unless-stopped
+    # ports:
+      # - 55010:80
+      # - 55015:443
+    # volumes:
+      # - adventureworks_customer:/var/adventureworks/customer
+    # networks:
+      # - adventureworks
+
+volumes:
+  adventureworks_mssqlserver:
+  adventureworks_rabbitmq:
+  adventureworks_mongodb:
+  adventureworks_redis:
+  adventureworks_catalog:
+  # adventureworks_customer:
+
+networks:
+  adventureworks:
+    name: adventureworks_network
